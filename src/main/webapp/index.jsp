@@ -1,4 +1,4 @@
-<html>
+d<html>
 <head>
 
 </head>
@@ -10,8 +10,8 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">Frist day of Jenkins pratise</h1>
-	
+	<h1 style="color: black; font-size: 40px;" align="center">second day of Jenkins pratise</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">third day of Jenkins pratise</h1>
 	
 	
 	
